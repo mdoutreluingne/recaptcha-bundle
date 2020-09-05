@@ -22,8 +22,8 @@
         }
     },
     "require-dev": {
-        "symfony/phpunit-bridge": "^5.1",
         "symfony/framework-bundle": "^5.1",
-        "symfony/browser-kit": "^5.1"
+        "symfony/browser-kit": "^5.1",
+        "symfony/phpunit-bridge": "^5.1"
     }
 }
