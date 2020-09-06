@@ -7,7 +7,7 @@ However this Bundle is functional, you can use it, and allows you to add a Recap
 ## Install the package with:
 
 ```console
-composer require mdoutreluingne/recaptcha-bundle dev-master
+composer require mdoutreluingne/recaptcha-bundle
 ```
 
 And... that's it! If you're *not* using Symfony Flex, you'll also
