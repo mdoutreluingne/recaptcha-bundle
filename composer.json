@@ -1,6 +1,7 @@
 {
     "name": "mdoutreluingne/recaptcha-bundle",
     "description": "You can validate your form with invisible recaptchav2 of google",
+    "keywords": ["recaptcha", "captcha", "symfony", "symfony5"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
